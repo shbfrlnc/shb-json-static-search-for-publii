@@ -22,37 +22,13 @@
      showgrid="false"
      inkscape:zoom="5.893617"
      inkscape:cx="70.5"
-     inkscape:cy="70.075812"
+     inkscape:cy="70.075813"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="a" />
-  <g
-     id="g8">
-    <circle
-       cx="64.98"
-       cy="64.98"
-       r="24.98"
-       fill="none"
-       stroke="#fff"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="11"
-       id="circle4" />
-    <line
-       x1="101"
-       y1="101"
-       x2="82.62"
-       y2="82.62"
-       fill="none"
-       stroke="#fff"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="11"
-       id="line6" />
-  </g>
   <path
      sodipodi:type="spiral"
      style="fill:none;fill-rule:evenodd;stroke:#000000"
