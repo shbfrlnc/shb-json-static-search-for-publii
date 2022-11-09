@@ -1,5 +1,9 @@
 # shb-json-static-search-for-publii - Plugin Publii untuk static search melalui JSON feed
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 Plugin ini adalah plugin CMS Publii yang berguna untuk memberi fitur search pada halaman web.
