@@ -1,0 +1,51 @@
+{
+    "name": "JSON Static Search",
+    "description": "Publii Search Based on JSON Feed. Modified from Google Custom Search plugin by TidyCustoms.",
+    "license": "GPL-3.0",
+    "author": "SHBFRLNC",
+    "version": "2022.11.10",
+    "scope": "site",
+    "minimumPubliiVersion": "0.40.0",
+    "usePluginSettingsView": false,
+    "messageInOptions": {
+        "type": "info",
+        "text": "Make sure 'JSON Feed', 'Search' and 'Search subpage' options are enabled."
+    },
+    "requiredFeatures": [
+        "customSearch"
+    ],
+    "config": [
+        {
+            "name": "jsonUrl",
+            "label": "JSON URL",
+            "note": "You can change the default JSON URL.",
+            "group": "Search configuration",
+            "value": "./feed.json",
+            "type": "text"
+        },
+        {
+            "name": "searchParam",
+            "label": "Search parameter",
+            "note": "You can change the default \"q\" search parameter if desired; recommended only for advanced users.",
+            "group": "Search configuration",
+            "value": "q",
+            "type": "text"
+        },
+        {
+            "name": "searchPlaceholder",
+            "label": "Input placeholder",
+            "note": "",
+            "group": "Theme integration",
+            "value": "search...",
+            "type": "text"
+        },
+        {
+            "name": "searchSubmitLabel",
+            "label": "Submit button label",
+            "note": "",
+            "group": "Theme integration",
+            "value": "Submit",
+            "type": "text"
+        }
+    ]
+}
