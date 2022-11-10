@@ -3,7 +3,7 @@
     "description": "Publii Search Based on JSON Feed. Modified from Google Custom Search plugin by TidyCustoms.",
     "license": "GPL-3.0",
     "author": "SHBFRLNC",
-    "version": "2022.11.10",
+    "version": "2022.11.11",
     "scope": "site",
     "minimumPubliiVersion": "0.40.0",
     "usePluginSettingsView": false,
@@ -19,15 +19,15 @@
             "name": "jsonUrl",
             "label": "JSON URL",
             "note": "You can change the default JSON URL.",
-            "group": "Search configuration",
+            "group": "Search config",
             "value": "./feed.json",
             "type": "text"
         },
         {
             "name": "searchParam",
             "label": "Search parameter",
-            "note": "You can change the default \"q\" search parameter if desired; recommended only for advanced users.",
-            "group": "Search configuration",
+            "note": "You can change the default \"q\" parameter.",
+            "group": "Search config",
             "value": "q",
             "type": "text"
         },
@@ -35,7 +35,7 @@
             "name": "searchPlaceholder",
             "label": "Input placeholder",
             "note": "",
-            "group": "Theme integration",
+            "group": "Theme config",
             "value": "search...",
             "type": "text"
         },
@@ -43,7 +43,7 @@
             "name": "searchSubmitLabel",
             "label": "Submit button label",
             "note": "",
-            "group": "Theme integration",
+            "group": "Theme config",
             "value": "Submit",
             "type": "text"
         }
