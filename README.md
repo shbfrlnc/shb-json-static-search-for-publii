@@ -20,3 +20,9 @@ Install plugin ini dan pastikan setting JSON feed, search, dan search subpage di
 Setelah di-install, lalu enable.
 
 Selesai.
+
+## Screenshot
+
+![ScreenShot](.readme-assets/shb-json-static-search-for-publii-1.png?raw=true)
+
+![ScreenShot](.readme-assets/shb-json-static-search-for-publii-2.png?raw=true)
